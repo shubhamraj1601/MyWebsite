@@ -1,0 +1,62 @@
+body {
+  margin: 0%;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 50px auto 0;
+  font-family: "Sacramento", cursive;
+  font-size: 4rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.btech {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 300px;
+}
+
+.profilepic {
+  border-radius: 50%;
+  height: 200px;
+  width: auto;
+}
+
+.program {
+  border-radius: 50%;
+  max-width: 11%;
+  height: auto;
+}
+
+.footer-link {
+  color: #11999e;
+}
